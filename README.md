@@ -1,5 +1,9 @@
 ## *A Incrível Ada Lovelace*
 
+
+![Link an image.](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/417px-Ada_Lovelace_portrait.jpg)
+
+
 ### Conhecendo um pouco sobre a vida de uma das pioneiras da ciência da computação, Ada Lovelace.
 
 ### _Augusta Ada Byron King_ nasceu em 10 de Dezembro de 1815, na cidade de Londres na Inglaterra. 
